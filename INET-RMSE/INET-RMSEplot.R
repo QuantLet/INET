@@ -19,9 +19,11 @@ Data3           = read.table("RMSE_uppertail.txt", header = TRUE, sep = " ", dec
 colnames(Data3) = "uppertail"
 Data            = cbind(Data1,Data2, Data3)
 Datanew         = cbind(Data2, Data1, Data3)
+png(file = 'rmse.png', width = 400, height = 350, bg = NA)
 matplot(1:49, Data[,1:3], type = "l", lwd = 3, col = 1:3, axes = FALSE, xlab = "different industries",
-        ylab = "RMSE of Industry Return Predictions")
+        ylab = "RMSE of Predictions")
 title(main = "RMSE of median, lower tail and upper tail predictions")
 axis(side = 2, labels = TRUE)
 mtext(rownames(Data1), side = 1, line=0.3, at = seq(1,49,1),  las = 2, cex = 0.8)
-write.table(format(Datanew,digits = 4), file = "rmsesumm.txt", sep = "&")
+dev.off()
+#write.table(format(Datanew,digits = 4), file = "rmsesumm.txt", sep = "&")

@@ -1,0 +1,8 @@
+"x"
+"No. of Coefficients"&2401
+"No. of Nonzeros"&717.553359683794
+"No. of Negatives"&396.201581027668
+"No. of Positives"&321.351778656126
+"Max"&0.574731964719111
+"Min"&-0.590236203385758
+"Average"&-0.00283735237726409

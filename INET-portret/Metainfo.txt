@@ -1,0 +1,16 @@
+
+Name of QuantLet: INET-portret
+
+Published in: Industry Interdependency Dynamics in a Network Context
+
+Description: 'Calculate monthly level excess return of 12 network centrality-based trading strategies and their Sharpe ratio, in order to compare with market portfolio'
+
+Keywords: 'Sharpe ratio, interdependency, network, centrality, trading strategy'
+
+Author: Ya Qian
+
+Submitted: Ya Qian
+
+Datafile: 'tradingreturns.csv, FF3factors.CSV'
+
+Output: 'Monthly excess return and Sharpe ratio of 12 network centrality- based trading strategies as well as that of market portfolio'

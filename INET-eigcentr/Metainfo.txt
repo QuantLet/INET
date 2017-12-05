@@ -1,0 +1,16 @@
+
+Name of QuantLet: INET-eigcentr
+
+Published in: Industry Interdependency Dynamics in a Network Context
+
+Description: 'Calculate the in- and out- eigenvector centrality scores of directed and weighted graphs'
+
+Keywords: 'Eigenvector, eigenvalue, centrality, network, graph, directed, weighted'
+
+Author: Ya Qian
+
+Submitted: Ya Qian
+
+Datafile: whole sample and moving window beta files
+
+Output: in- and out- centrality scores 

@@ -1,0 +1,15 @@
+
+Name of QuantLet: INET-regression
+
+Published in: Industry Interdependency Dynamics in a Network Context
+
+Description: 'Regress the moving-window connectedness and clustering coefficients of industry network on volatilities of Fama-French three risk factors'
+
+Keywords: 'risk factors, regression, connectedness, clustering, volatility'
+
+Author: Ya Qian
+
+Submitted: Ya Qian
+
+Datafile: 'cc_mw.csv, conn_mw.csv, FF3factors.CSV'
+

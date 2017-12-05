@@ -1,0 +1,16 @@
+
+Name of QuantLet: INET-rollingdire
+
+Published in: Industry Interdependency Dynamics in a Network Context
+
+Description: 'calculate the summary statistics of moving window beta coefficients to give the direction information about industry return prediction'
+
+Keywords: 'interdependency, network, direction, summary statistics, correlated'
+
+Author: Ya Qian
+
+Submitted: Ya Qian
+
+Datafile: 'industryname.csv, beta_L_median(1-253) .csv, beta_L_lowertail(1-253) .csv,      beta_L_uppertail(1-253) .csv'
+
+Output: 'directions_lowertail.txt, directions_median.txt, directions_uppertail.txt'

@@ -1,0 +1,16 @@
+
+Name of QuantLet: INET-connectedness
+
+Published in: Industry Interdependency Dynamics in a Network Context
+
+Description: 'Calculate the whole sample and moving window network connectedness of industry portfolios'
+
+Keywords: 'connectedness, network, tail risk, interdependency, dynamic'
+
+Author: Ya Qian
+
+Submitted: Ya Qian
+
+Datafile: whole sample and moving window beta files
+
+Output: connectedness measures and time series plots
