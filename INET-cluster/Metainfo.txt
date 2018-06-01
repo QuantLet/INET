@@ -1,5 +1,5 @@
 
-Name of QuantLet: INET-cluster
+Name of QuantLet: INET_cluster
 
 Published in: Industry Interdependency Dynamics in a Network Context
 
