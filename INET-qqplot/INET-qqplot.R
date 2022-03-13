@@ -23,4 +23,4 @@ for (i in 1:10){
          ylab = paste("Sample Quantiles of ", colnames(DD)[i], sep = " "))
   qqline(DD[,i], col = 2)
 }
-write.table(format(stat,digits = 4), file = "summary statistics", sep = "&")
+write.table(format("stat",digits = 4), file = "summary statistics", sep = "&")
