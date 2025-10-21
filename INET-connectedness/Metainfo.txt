@@ -9,7 +9,7 @@ Keywords: 'connectedness, network, tail risk, interdependency, dynamic'
 
 Author: Ya Qian
 
-Submitted: Ya Qian
+Submitted: 05.12.2017
 
 Datafile: whole sample and moving window beta files
 
