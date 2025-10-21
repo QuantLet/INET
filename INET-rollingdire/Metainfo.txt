@@ -9,7 +9,7 @@ Keywords: 'interdependency, network, direction, summary statistics, correlated'
 
 Author: Ya Qian
 
-Submitted: Ya Qian
+Submitted: 05.12.2017
 
 Datafile: 'industryname.csv, beta_L_median(1-253) .csv, beta_L_lowertail(1-253) .csv,      beta_L_uppertail(1-253) .csv'
 
