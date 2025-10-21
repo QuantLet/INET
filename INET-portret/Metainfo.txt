@@ -9,7 +9,7 @@ Keywords: 'Sharpe ratio, interdependency, network, centrality, trading strategy'
 
 Author: Ya Qian
 
-Submitted: Ya Qian
+Submitted: 05.12.2017
 
 Datafile: 'tradingreturns.csv, FF3factors.CSV'
 
