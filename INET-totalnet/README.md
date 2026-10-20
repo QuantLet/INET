@@ -15,7 +15,7 @@ Keywords: quantile regression, interdependency, network, centrality, stress situ
 
 Author: Ya Qian
 
-Submitted: Ya Qian
+Submitted: 05.12.2017
 
 Datafile: industryname.csv, beta_L_median.csv, beta_L_lowertail.csv,      beta_L_uppertail.csv
 
