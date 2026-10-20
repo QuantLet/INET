@@ -15,7 +15,7 @@ Keywords: Eigenvector, eigenvalue, centrality, network, graph, directed, weighte
 
 Author: Ya Qian
 
-Submitted: Ya Qian
+Submitted: 05.12.2017
 
 Datafile: whole sample and moving window beta files
 
