@@ -15,7 +15,7 @@ Keywords: quantile regression, predictive power, tail, stress situation, dimensi
 
 Author: Ya Qian
 
-Submitted: Ya Qian
+Submitted: 05.12.2017
 
 Datafile: 49IPM1970.CSV
 
